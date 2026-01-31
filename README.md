@@ -3,7 +3,7 @@
 
 This project predicts the **stock closing price** using a **GRU (Gated Recurrent Unit)** deep learning model. The model analyzes **past stock prices**, learns their patterns, and predicts future values.
 
----
+-----
 
 ##  Project Overview
 
