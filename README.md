@@ -27,7 +27,7 @@ The model uses the last **N past days (window size)** of stock prices to predict
 * Compare predicted values with actual values
 * Build a model capable of future prediction
 
----
+-----
 
 ##  Dataset
 
@@ -126,10 +126,6 @@ This helps evaluate how well the GRU model learned the pattern.
 * Sequence modeling
 * Evaluating deep learning models visually
 
-
-##  License
-
-This project is open-source and free to use.
 
 ---
 
